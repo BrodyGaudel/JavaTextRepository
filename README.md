@@ -42,7 +42,7 @@ Java File Repository is a lightweight Java library inspired by JpaRepository tha
 1. Import the necessary classes into your Java or Kotlin file:
 
    ```java
-   import org.mounangabouka.brodygaudel.repository.FileRepository;
+   import org.mounangabouka.brodygaudel.repository.Repository;
    import com.example.model.YourModel;
    ```
 
