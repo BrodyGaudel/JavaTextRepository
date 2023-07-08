@@ -126,4 +126,4 @@ Contributions to Java File Repository are welcome! If you find any issues or hav
 
 ## License
 
-Java File Repository is open-source software licensed under the MIT License. See the [LICENSE](https://github.com/example/java-file-repository/blob/main/LICENSE) file for more information.
+Java File Repository is open-source software licensed under the MIT License. See the [LICENSE](https://github.com/BrodyGaudel/JavaTextRepository/blob/main/LICENSE) file for more information.
