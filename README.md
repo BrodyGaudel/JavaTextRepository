@@ -42,14 +42,14 @@ Java File Repository is a lightweight Java library inspired by JpaRepository tha
 1. Import the necessary classes into your Java or Kotlin file:
 
    ```java
-   import com.example.repository.FileRepository;
+   import org.mounangabouka.brodygaudel.repository.FileRepository;
    import com.example.model.YourModel;
    ```
 
-2. Create an instance of the `FileRepository` class, specifying the file path where the data will be stored:
+2. Create an instance of the `Repository` class, specifying the file path where the data will be stored:
 
    ```java
-   FileRepository<YourModel> repository = new FileRepository<>("data.txt");
+   Repository<YourModel> repository = new TxtRepository<>("data.txt", YourModel.class);
    ```
 
 3. Use the provided methods to interact with the data:
@@ -93,7 +93,7 @@ Java File Repository is a lightweight Java library inspired by JpaRepository tha
 Here's a simple example of using Java File Repository:
 
 ```java
-import com.example.repository.FileRepository;
+import org.mounangabouka.brodygaudel.repository.Repository;
 import com.example.model.User;
 
 public class Main {
