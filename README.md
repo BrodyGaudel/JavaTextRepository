@@ -15,13 +15,13 @@ Java File Repository is a lightweight Java library inspired by JpaRepository tha
 1. Clone the Java File Repository repository:
 
    ```bash
-   git clone https://github.com/example/java-file-repository.git
+   git https://github.com/BrodyGaudel/JavaTextRepository.git
    ```
 
 2. Build and install the library using Maven:
 
    ```bash
-   cd java-file-repository
+   cd JavaTextRepository
    mvn clean install
    ```
 
