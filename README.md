@@ -9,6 +9,7 @@ Java File Repository is a lightweight Java library inspired by JpaRepository tha
 - Java 17 or higher
 - Any Java development environment (e.g., Eclipse, IntelliJ, or VS Code)
 - Maven
+- 
 
 ### Installation
 
